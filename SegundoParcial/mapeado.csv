@@ -1,0 +1,31 @@
+id,titulo,autor,precio,idEditorial
+1,It,Stephen King,960.000000,1
+2,El Principito,Antoine de Saint-Exupery,400.000000,5
+3,Sabor a Muerte,P.D. James,500.000000,4
+4,La Casa de los Espiritus,Isabel Allende,600.000000,6
+5,Dr. Jekyll y Mr. Hyde,R.L.B Stevenson,500.000000,2
+6,La Nona,Roberto Cossa,600.000000,3
+7,El Hombre Ilustrado,Ray Bradbury,800.000000,2
+8,Harry Potter,J.K Rowling,800.000000,1
+9,Martin Fierro,Jose Hernandez,400.000000,2
+10,El Juguete Rabioso,Roberto Arlt,400.000000,1
+11,Los Arboles Mueren de Pie,Alejandro Casona,460.000000,2
+12,Ojos de Fuego,Stephen King,700.000000,4
+13,Mi Planta Naranja Lima,De Vasconcelos,400.000000,1
+14,La Niebla,Stephen King,650.000000,6
+15,El Zahir,Paulo Coelho,400.000000,5
+16,Carretera Maldita,Stephen King,1200.000000,4
+17,El Alquimista,Paulo Coelho,400.000000,2
+18,La Chica del Tambor,John Le Carre,500.000000,4
+19,Fahrenheit 451,Ray Bradbury,600.000000,6
+20,Carrie,Stephen King,640.000000,1
+21,1824,George Orwell,1100.000000,4
+22,Cien anios de Soledad,Gabriel Garcia Marquez,600.000000,4
+23,Odisea,Homero,500.000000,3
+24,Orgullo y Prejuicio,Jane Austen,400.000000,1
+25,Iliada,Homero,162.000000,2
+26,Divina Comedia,Dante Alighieri,600.000000,3
+27,Romero y Julieta,William Shakespare,400.000000,3
+28,Frankestein,Mary Shelley,280.000000,1
+29,Hamlet,William Shakespare,400.000000,5
+30,Moby Dick,Herman Melville,400.000000,5
